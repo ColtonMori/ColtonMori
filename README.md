@@ -148,4 +148,7 @@
   <a href="https://dotnet.microsoft.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/dot-net.png" alt="dotnet" height="25"/>
   </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img src="https://files.rubixdev.de/logos/unity.svg" alt="unity" height="25"/>
+  </a>
 </p>
