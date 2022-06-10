@@ -32,7 +32,7 @@
 <p align=center>
   <div align=center>
       <img width=396 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ColtonMori&theme=react&hide_border=true" />
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=ColtonMori&show_icons=true&theme=react&hide_border=true" />
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=ColtonMori&show_icons=true&theme=react&hide_border=true&hide=prs" />
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
