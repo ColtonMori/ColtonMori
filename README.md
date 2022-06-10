@@ -31,7 +31,9 @@
 <br>
 <p align=center>
   <div align=center>
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+    <a href="https://git.io/streak-stats">
+      <img width=396 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ColtonMori&theme=react&hide_border=true" />
+    </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=coltonmori&show_icons=true&theme=react&hide_border=true" />
     </a>
