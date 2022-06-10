@@ -35,7 +35,7 @@
       <img width=396 align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ColtonMori&theme=react&hide_border=true" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=coltonmori&show_icons=true&theme=react&hide_border=true" />
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=ColtonMori&show_icons=true&theme=react&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
