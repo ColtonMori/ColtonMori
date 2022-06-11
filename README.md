@@ -18,15 +18,6 @@
   📫 How to reach me: <a href="mailto: coltonmori1014@gmail.com">coltonmori1014@gmail.com</a>
 </p>
 <hr>
-<h2 align="center">✨ Profile Trophy ✨</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coltonmori&theme=darkhub&hide_border=true&margin-w=15" alt="coltonmori" /></a>
-  </div>
-  <br>
-</p>
-<hr>
 <h2 align="center">✨ Stats ✨</h2>
 <br>
 <p align=center>
@@ -39,8 +30,11 @@
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freedevsoft&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&hide_border=true" />
   </div>
 </p>
+<p align=center>
+  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=ColtonMori&theme=github" /> 
+</p>
 <hr>
-<h2 align="center">💫 My Preferred Languages&Frameworks 💫</h2>
+<h2 align="center">💫 Preferred Languages&Frameworks 💫</h2>
 <br>
 <p align="center">
   <a href="https://angular.io" target="_blank">
