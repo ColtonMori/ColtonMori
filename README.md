@@ -49,15 +49,6 @@
   <a href="https://www.java.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/izumin5210/emojipack-for-devicon/master/png/java.png" alt="java" height="25"/>
   </a>
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="25"/>
-  </a> 
-  <a href="https://www.chartjs.org" target="_blank">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" height="25"/>
-  </a>
-  <a href="https://codeigniter.com" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" height="25"/>
-  </a>
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" height="25"/>
   </a>
@@ -108,6 +99,15 @@
   </a>
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" height="25"/>
+  </a>
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" height="25"/>
+  </a> 
+  <a href="https://www.chartjs.org" target="_blank">
+    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" height="25"/>
+  </a>
+  <a href="https://codeigniter.com" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" height="25"/>
   </a>
   <a href="https://graphql.org" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" height="25"/>
