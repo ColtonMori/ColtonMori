@@ -14,8 +14,6 @@
   📚 I’m currently learning about .NET&Blockchain.
   <br>
   💬 Ask me anything about from <a href="https://github.com/ColtonMori/ColtonMori/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: coltonmori1014@gmail.com">coltonmori1014@gmail.com</a>
 </p>
 <hr>
 <h2 align="center">✨ Stats ✨</h2>
