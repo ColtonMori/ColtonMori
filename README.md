@@ -11,7 +11,7 @@
   <br>
   💻 I love writing and learning code.
   <br>
-  📚 I’m currently learning about .NET&Blockchain.
+  📚 I’m currently learning about .NET&AI.
   <br>
   💬 Ask me anything about from <a href="https://github.com/ColtonMori/ColtonMori/issues" title="Issues">Here</a>
 </p>
